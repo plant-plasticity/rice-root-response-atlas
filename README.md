@@ -5,7 +5,7 @@ Code and supplementary files used in analysis for "Gene regulatory networks shap
 **Title:** Gene regulatory networks shape developmental plasticity of root cell types under water extremes
 
 **Authors:**  [Mauricio A. Reynoso](https://github.com/reynosoma),* [Alex Borowsky](https://github.com/alexborowsky),* Germain Pauluzzi*, Elaine Yeung, Jianhai Zhang, Elide Formentin, Joel Velasco, Sean Cabanlit, Christine Duvenjian, Matthew J. Prior, Garo Z. Akmakjian, [Roger B. Deal](https://github.com/DealLab), Neelima Sinha, Siobhan M. Brady, [Thomas Girke](https://github.com/tgirke), [Julia Bailey-Serres](https://github.com/jbserres)
-*These authors contributed equally
+_*These authors contributed equally_
 
 **Journal:** 
 
