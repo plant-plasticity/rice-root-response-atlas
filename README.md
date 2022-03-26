@@ -23,7 +23,8 @@ _*These authors contributed equally_
 - [Differential Gene Expression by limma-voom](https://github.com/plant-plasticity/rice-root-response-atlas/blob/main/DEG_analysis_limma_polyA_TRAP.R)
 - [Clustering](https://github.com/plant-plasticity/Evolutionary-flexibility-in-flooding-response-2019/blob/master/DEG-analysis-limma-voom/Scripts/Clustering_Heatmap.R)
 - [TF enrichment analysis on THS & heatmap](https://github.com/plant-plasticity/rice-root-response-atlas/blob/main/THS_enrichment_analysis.R)
-- [Networks TF to gene target]()
+- [FIMO motif](https://github.com/plant-plasticity/rice-root-response-atlas/blob/main/FIMO_annotated.R)
+- [Networks TF to gene target](https://github.com/plant-plasticity/rice-root-response-atlas/blob/main/network_data_frame_production.R)
 
 ## Other resources by topic
 - [Jbrowser - genome viewer of ATAC-seq, total RNA, TRAP RNA]()
