@@ -28,6 +28,5 @@ Developmental Cell
 - [Networks TF to gene target](https://github.com/plant-plasticity/rice-root-response-atlas/blob/main/network_data_frame_production.R)
 
 ## Other resources by topic
-- [Jbrowser - genome viewer of ATAC-seq, total RNA, TRAP RNA]()
-- [Supplemental material](https://github.com/plant-plasticity/Evolutionary-flexibility-in-flooding-response-2019/tree/master/Cytoscape)
-
+- [Jbrowser - genome viewer of ATAC-seq, total RNA, TRAP RNA](http://ricejbrowse.baileyserreslab.org)
+- [Rice root response atlas Spatial heatmap](http://spatialheatmap.baileyserreslab.org)
